@@ -10,6 +10,9 @@
 # Where 3rd-party dependencies like ExDoc output generated docs.
 /doc/
 
+#File containing admin account email and password
+/priv/repo/seeds.json
+
 # Ignore .fetch files in case you like to edit your project deps locally.
 /.fetch
 
